@@ -33,5 +33,26 @@ The dataset, as provided by DSA, contains information scraped from Amazon produc
 For easy visualization via charts and slicers:
 ![2025-07-03 (2)](https://github.com/user-attachments/assets/b3c4d50d-8760-4895-b7dd-bab997c831b9)
 
+## Limitations
+
+- This analysis was built on a single flat Excel file — which means there were boundaries I couldn’t cross, especially in deeper, joined queries.
+- A few values were missing or unclear, and while I handled them carefully, I know some decisions may have influenced the final outcome.
+- Dates weren’t always consistent, so I couldn't fully explore trends across time or seasonal insights.
+- What you see is just a portion of the broader Amazon universe — so conclusions drawn here are more like glimpses, not full portraits.
+- Because it was one table, complexity was simplified — for clarity’s sake, yes — but also due to structure.
+
+## Recommendations
+
+- This project would grow beautifully if expanded into multiple linked tables — customers, products, orders — allowing for richer relationships and queries.
+- Data cleaning could be automated with Python (hello, pandas), so future work is smoother, faster, and more repeatable.
+- A simple data dictionary could help others understand the “why” behind each column and choice made.
+- Adding a visual layer — charts, dashboards, or even storytelling visuals — would make the insights easier to grasp at a glance.
+
+## Next Steps
+
+- Normalize the dataset and rebuild the queries with joins — that's one way to evolve the logic.
+- Try visualizing customer patterns or product trends using Tableau, or Power BI.
+- Explore segmentation, forecasting, or even predictive modeling.
+
 
 
