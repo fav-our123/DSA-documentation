@@ -27,7 +27,7 @@ The dataset, as provided by DSA, contains information scraped from Amazon produc
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
-[Click here to view the cleaned dataset and the pivot tables that answer the above questions](https://github.com/fav-our123/DSA-documentation/raw/refs/heads/main/Amazon%20case%20study%20(Autosaved)%20(Recovered).xlsx)
+[Click here to view the cleaned dataset and the pivot tables of the above](https://github.com/fav-our123/DSA-documentation/raw/refs/heads/main/Amazon%20case%20study%20(Autosaved)%20(Recovered).xlsx)
 
 ###### DASHBOARD
 For easy visualization via charts and slicers:
